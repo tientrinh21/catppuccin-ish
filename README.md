@@ -1,7 +1,7 @@
 <h3 align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
-	Catppuccin for <a href="https://github.com/catppuccin/template">App</a>
+	Catppuccin for <a href="https://github.com/ish-app/ish">iSH</a>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
 
@@ -36,20 +36,17 @@
 
 ## Usage
 
-1. Clone this repository locally
-2. Open the app's settings
-3. Select `import theme` and browse to where you cloned Catppuccin
-4. Select it
-
-<!-- this section is optional -->
-## 🙋 FAQ
-
--	Q: **_"Where can I find the doc?"_**\
-	A: Run `:help theme`
+1. Download your preferred Catppuccin in the `themes` folder to your device.
+2. Open the app's settings.
+3. Click `Appearance` in the resulting pop-up.
+4. Click `Theme` in the next section.
+5. Click `Edit`.
+6. Click `Import Theme` and browse for the file you downloaded.
+4. Select it.
 
 ## 💝 Thanks to
 
-- [Human](https://github.com/catppuccin)
+- [tientrinh21](https://github.com/tientrinh21)
 
 &nbsp;
 
